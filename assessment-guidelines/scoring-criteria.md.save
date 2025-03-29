@@ -1,0 +1,150 @@
+# Assessment Scoring Breakdown
+
+The total score is **100 points**. Below is the breakdown:
+
+---
+
+## ✅ 1. Functional Completeness – 30 points
+- All core features are implemented as described
+- Features are working without critical bugs
+- Clear end-to-end functionality
+
+---
+
+## ✅ 2. Code Quality – 25 points
+- Clean, readable code with proper naming conventions
+- Modular, reusable components and functions
+- Logical folder structure and separation of concerns
+- Comments where necessary
+
+---
+
+## ✅ 3. Security – 20 points
+- User data is protected (passwords hashed, auth tokens used)
+- API endpoints are secured
+- Input validation and error handling is present
+
+---
+
+## ✅ 4. System Architecture – 15 points
+- Scalable and maintainable design
+- Clear data flow between services and layers
+- Use of best practices (e.g., MVC, service layers, reusable components)
+
+---
+
+## ✅ 5. Documentation – 10 points
+- Comprehensive README
+- Setup and run instructions provided
+- API or system documentation included
+
+---
+
+## 🌟 Bonus Points (Optional)
+- Dockerized setup
+- GitHub Actions/CI pipeline
+- Deployment demo link
+
+
+open -e assessment-guidelines/scoring-criteria.md
+
+# Assessment Scoring Breakdown
+
+The total score is **100 points**. Below is the breakdown:
+
+---
+
+## ✅ 1. Functional Completeness – 30 points
+- All core features are implemented as described
+- Features are working without critical bugs
+- Clear end-to-end functionality
+
+---
+
+## ✅ 2. Code Quality – 25 points
+- Clean, readable code with proper naming conventions
+- Modular, reusable components and functions
+- Logical folder structure and separation of concerns
+- Comments where necessary
+
+---
+
+## ✅ 3. Security – 20 points
+- User data is protected (passwords hashed, auth tokens used)
+- API endpoints are secured
+- Input validation and error handling is present
+
+---
+
+## ✅ 4. System Architecture – 15 points
+- Scalable and maintainable design
+- Clear data flow between services and layers
+- Use of best practices (e.g., MVC, service layers, reusable components)
+
+---
+
+## ✅ 5. Documentation – 10 points
+- Comprehensive README
+- Setup and run instructions provided
+- API or system documentation included
+
+---
+
+## 🌟 Bonus Points (Optional)
+- Dockerized setup
+- GitHub Actions/CI pipeline
+- Deployment demo link
+# Assessment Scoring Breakdown
+
+The total score is **100 points**. Below is the breakdown:
+
+---
+
+## ✅ 1. Functional Completeness – 30 points
+- All core features are implemented as described
+- Features are working without critical bugs
+- Clear end-to-end functionality
+
+---
+
+## ✅ 2. Code Quality – 25 points
+- Clean, readable code with proper naming conventions
+- Modular, reusable components and functions
+- Logical folder structure and separation of concerns
+- Comments where necessary
+
+---
+
+## ✅ 3. Security – 20 points
+- User data is protected (passwords hashed, auth tokens used)
+- API endpoints are secured
+- Input validation and error handling is present
+
+---
+
+## ✅ 4. System Architecture – 15 points
+- Scalable and maintainable design
+- Clear data flow between services and layers
+- Use of best practices (e.g., MVC, service layers, reusable components)
+
+---
+
+## ✅ 5. Documentation – 10 points
+- Comprehensive README
+- Setup and run instructions provided
+- API or system documentation included
+
+---
+
+## 🌟 Bonus Points (Optional)
+- Dockerized setup
+- GitHub Actions/CI pipeline
+- Deployment demo link
+
+
+open -e assessment-guidelines/scoring-criteria.md
+
+
+open -e assessment-guidelines/scoring-criteria.md
+
+
